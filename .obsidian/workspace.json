@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수업 메모/note.md",
+                "file": "DevOps/Backend/FRIDGE_ERD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "note"
+              "title": "FRIDGE_ERD"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c2075af80c1fc9c3",
@@ -185,14 +186,18 @@
   },
   "active": "617761612433fbfd",
   "lastOpenFiles": [
-    "DevOps/README.md",
+    "DevOps/Backend/TITANIC_ERD.md",
+    "수업 메모/note.md",
+    "DevOps/Backend/FRIDGE_ERD.md",
+    "사진/Pasted image 20260522130439.png",
+    "DevOps/Backend/ENTITY_RULE.md",
     "프리지개발/260520_fridge.md",
+    "DevOps/Backend/FRIDGE",
+    "수업 메모/소스코드 (= 프로그래밍 언어).md",
+    "DevOps/README.md",
     "프리지개발/260506_fridge_UI.md",
     "프리지개발/260506_fridge_simple.md",
     "프리지개발/260506_fridge_project_plan.md",
-    "수업 메모/note.md",
-    "DevOps/Backend/ENTITY_RULE.md",
-    "수업 메모/소스코드 (= 프로그래밍 언어).md",
     "수업 메모/FastAPI + Unicorn 설치 & 실행.md",
     "사진/a.png",
     "사진/필드와에어리어.png",
