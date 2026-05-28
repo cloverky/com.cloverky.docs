@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Backend/FRIDGE_ERD.md",
+                "file": "수업 메모/note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FRIDGE_ERD"
+              "title": "note"
             }
           }
         ]
@@ -185,10 +185,12 @@
   },
   "active": "617761612433fbfd",
   "lastOpenFiles": [
-    "DevOps/Backend/ENTITY_RULE.md",
-    "수업 메모/note.md",
-    "DevOps/Backend/FRIDGE_ERD.md",
     "수업 메모/디자인패턴.md",
+    "수업 메모/note.md",
+    "사진/단방향.png",
+    "사진/SQL.png",
+    "DevOps/Backend/FRIDGE_ERD.md",
+    "DevOps/Backend/ENTITY_RULE.md",
     "수업 메모/소스코드 (= 프로그래밍 언어).md",
     "수업 메모/FastAPI + Unicorn 설치 & 실행.md",
     "DevOps/Backend/TITANIC_ERD.md",
